@@ -20,8 +20,13 @@ The dataset consits of 400 images in the training set and 30 images for validati
 
 
 
-<h1>Result</h1>
+<h1>Results</h1>
 In the end the model is able to detect the objects successfully with high confidence.
+<br>
+
+
+
+
 
 
 
