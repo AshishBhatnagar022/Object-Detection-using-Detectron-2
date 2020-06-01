@@ -11,6 +11,7 @@ The dataset consits of 400 images in the training set and 30 images for validati
 
 
 
+<img src="images/fastercnn.png" width="60%">
 
 
 
@@ -32,4 +33,18 @@ In the end the model is able to detect the objects successfully with high confid
 
 
 
-![](images/op2.png)
+
+<img src="images/op2.PNG" width="50%">
+
+
+
+
+
+
+
+
+
+<img src="images/op4.PNG" width="50%">
+
+<img src="images/op3.PNG" width="50%">
+<img src="images/op5.PNG" width="50%">
