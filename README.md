@@ -2,7 +2,7 @@
 ![](images/detectron2.png)
 
 <h1>Objective</h1> 
-This is a simple object detection model which could able to detect namely two objects i.e Alarm clock and Television.
+This is a simple object detection model which is trained on custom dataset trained on Faster RCNN using Detectron 2. It is detecting two objects namely Alarm clock and Television.
 
 <h1>Description</h1>
 Detectron2 is a ground-up rewrite of Detectron that started with maskrcnn-benchmark.The platform is now implemented in PyTorch.
